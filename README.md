@@ -179,7 +179,6 @@ GROUP BY category;
 
 ```sql
 sql
-CopyEdit
 -- Join order_details with menu_items to link order items with menu details
 SELECT *
 FROM `restaurant-467804.order_id.order_details` AS orders
